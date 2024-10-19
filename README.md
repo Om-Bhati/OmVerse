@@ -1,2 +1,2 @@
 # OmVerse
-OmVerse is a full-stack e-commerce web application built using the MERN stack (MongoDB, Express.js, React, Node.js). This project aims to provide a seamless shopping experience with a user-friendly interface, robust backend, and secure payment options.
+OmVerse is a social media web application inspired by Instagram, built using the MERN stack (MongoDB, Express.js, React, Node.js). This platform allows users to share photos, connect with friends, and engage with content in a vibrant community.
